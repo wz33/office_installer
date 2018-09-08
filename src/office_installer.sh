@@ -1,8 +1,13 @@
 #!/bin/bash
-# mjk235 [at] nyu [dot] edu --2018.17.2018
+# mjk235 [at] nyu [dot] edu --2018.09.08
 # v.0.1
 
-# auto-magically install Office 2016 in OS X
+#########################################################################################
+#### Auto-magically install MSFT. Office 2016 on OS X. 		                     ####
+#### Open to members of NYU's: Center for Brain Imaging, Center for Neural Science,  ####
+#### and Department of Psychology.                                                   ####
+#### Requires: root privileges; access to Meyer network; adequate free disk space.   ####
+#########################################################################################
 
 LOCAL_WEB="128.122.112.23"
 
