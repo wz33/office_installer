@@ -1,3 +1,5 @@
+# Office Installer 
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/df70db0382cd4d47a0fee95e385ad305)](https://www.codacy.com/app/marshki/office_installer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=marshki/office_installer&amp;utm_campaign=Badge_Grade)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
@@ -9,5 +11,10 @@ Open to members of New York University's: [Center for Brain Imaging](http://cbi.
 and [Department of Psychology](http://www.psych.nyu.edu/psychology.html) on the Meyer network.
 
 Written and tested to run on currently-supported versions of Mac OS X.
+
+## Getting Started 
+## TODO 
+## History 
+## LICENSE 
 
 Initial commit 2018.09.08 
