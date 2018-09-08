@@ -84,7 +84,7 @@ get_office () {
 # Unpack tarball to /Applications, which installs Office.
 
 untar_office () {
-  printf "%s\\n" "UNTARRING ${OFFIE[0]} PACKAGE TO /Applications..."
+  printf "%s\\n" "UNTARRING ${OFFICE[0]} PACKAGE TO /Applications..."
 
   tar --extract --gzip -v --file=/Applications/office.app.tgz --directory=/
 }
