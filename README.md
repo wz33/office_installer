@@ -13,8 +13,27 @@ and [Department of Psychology](http://www.psych.nyu.edu/psychology.html) on the 
 Written and tested to run on currently-supported versions of Mac OS X.
 
 ## Getting Started 
+
+__Pre-flight checklist__ (the script will check for the following conditions):
+ 
+  * root privileges  
+
+  * adeqaute free disk space (8 GBs)
+
+  * [curl](https://curl.haxx.se/docs/manpage.html)
+
+  * access to the Meyer network.  
+
+__Liftoff:__
+
+Grab the script for your OS from `/src` in this repository, then, with elevated privileges, call the script:  
+
+* `sudo bash office_installer.sh`.  
+
 ## TODO 
+
 ## History 
+
 ## LICENSE 
 
 Initial commit 2018.09.08 
