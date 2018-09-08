@@ -34,6 +34,8 @@ Grab the script for your OS from `/src` in this repository, then, with elevated 
 
 ## History 
 
+Initial commit 2018.09.08 
+
 ## LICENSE 
 
-Initial commit 2018.09.08 
+[LICENSE](https://github.com/marshki/office_installer/blob/master/LICENSE)
