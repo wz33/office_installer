@@ -26,7 +26,7 @@ __Pre-flight checklist__ (the script will check for the following conditions):
 
 __Liftoff:__
 
-Grab the script for your OS from `/src` in this repository, then, with elevated privileges, call the script:  
+Grab the script from `/src` in this repository, then, with elevated privileges, call the script:  
 
 * `sudo bash office_installer.sh`.  
 
