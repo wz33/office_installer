@@ -3,7 +3,7 @@
 # v.0.1
 
 #########################################################################################
-#### Auto-magically install MSFT. Office 2016 on OS X. 		                     ####
+#### Auto-magically install a subset of MSFT. Office 2016 on OS X. 		     ####
 #### Open to members of NYU's: Center for Brain Imaging, Center for Neural Science,  ####
 #### and Department of Psychology.                                                   ####
 #### Requires: root privileges; access to Meyer network; adequate free disk space.   ####
@@ -47,7 +47,7 @@ curl_check () {
 fi
 }
 
-# Is CNS local web available? If not, exit.
+# Is CNS local web available? If not, exit. (Will devise a diff test for this). 
 
 ping_local_web() {
   printf "%s\\n" "PINGING CNS LOCAL WEB..."
