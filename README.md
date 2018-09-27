@@ -32,6 +32,8 @@ Grab the script from `/src` in this repository, then, with elevated privileges, 
 
 ## TODO 
 
+[  ] - Check disk space function 
+
 ## History 
 
 Initial commit 2018.09.08 
